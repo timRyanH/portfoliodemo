@@ -1,0 +1,16 @@
+{
+  "name": "portfolio-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d root"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://timRyanH.github.io/portfoliodemo",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
